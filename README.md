@@ -18,6 +18,7 @@ flowchart TD
     A --> D[Fundamental Design Principles]
     A --> E[Observer's Collapse Function]
     B & C & D & E --> F[Repair Recommendations]
+text
 🌿 Core Frameworks
 1. 7ES Structural Anatomy
 Evaluates systems across 7 elements:
